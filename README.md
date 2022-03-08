@@ -11,7 +11,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-[](images/screenshot.png)
+!(images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jesuisbienbien/three-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://jesuisbienbien.github.io/three-column-preview-card-component/)
+- Solution URL: [Solution URL](https://github.com/jesuisbienbien/three-column-preview-card-component)
+- Live Site URL: [Live site URL](https://jesuisbienbien.github.io/three-column-preview-card-component/)
 
 ## My process
 
