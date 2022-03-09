@@ -27,10 +27,14 @@ body {
 }
 
 main {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  // display: flex;
+  // flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
   margin: 5rem auto;
 }
 
@@ -113,7 +117,12 @@ main {
     overflow: hidden;
   }
   main {
-    flex-direction: row;
+    // flex-direction: row;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    width: fit-content;
+
+    place-items: center;
   }
 
   .container {
